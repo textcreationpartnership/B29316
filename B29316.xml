@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to a painter, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 35KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29316</idno><idno type="EEBO-CITATION">12367856</idno>
+  <idno type="VID">60460</idno>
+  <idno type="EEBO-PROQUEST">2240973780</idno>
+  
+            <idno type="STC">Wing S774A</idno>
+            <idno type="STC">ESTC R641</idno>
+            <idno type="OCLC">12367856</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 216:13a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice to a painter, &amp;c.</title>
+                  <author>Marvell, Andrew, 1621-1678.</author>
+                  <author>Savile, Henry, 1642-1687.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Doubtfully ascribed to Marvell although included in editions of his works and poems; ascribed also to Henry Savile. Cf. Margoliouth, H.M. Poems &amp; letters of Andrew Marvell, 1927, v.1, p. 321-325; BM, also Wing CD-ROM, 1996).</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:60460:1"/>
+                  <pb n="1" facs="tcp:60460:1"/>
+                  <head>Advice to a Painter, &amp;c.</head>
+                  <lg>
+                     <l>SPread a large Canvas, Painter, to contain</l>
+                     <l>The great Assembly and the numerous train,</l>
+                     <l>Who all about him shall in Council sit,</l>
+                     <l>Abjuring Wisdom, and despising Wit;</l>
+                     <l>Hating all Justice, and resolv'd to Fight,</l>
+                     <l>To rob his Native Country of its Right.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>First,</hi> Draw him falling prostrate to the South,</l>
+                     <l>Adoring ROME, this Libel in his mouth;</l>
+                     <l>
+                        <hi>Most Holy Father! being joyn'd in League,</hi>
+                     </l>
+                     <l>
+                        <hi>With Father</hi> Patrick, Darby, <hi>and with</hi> Teague,</l>
+                     <l>
+                        <hi>Thrown at Your Sacred Feet I humbly bow;</hi>
+                     </l>
+                     <l>
+                        <hi>I, and the wise Associates of my Vow,</hi>
+                     </l>
+                     <l>
+                        <hi>I swear not Fire nor Sword shall ever end,</hi>
+                     </l>
+                     <l>
+                        <hi>Till all this Nation to Your Foot-stool bend;</hi>
+                     </l>
+                     <l>
+                        <hi>Arm'd with bold Zeal &amp; Blessings from your Hands,</hi>
+                     </l>
+                     <l>
+                        <hi>I'le raise my Irish and my Popish Bands;</hi>
+                     </l>
+                     <l>
+                        <hi>And by a Noble well-contrived</hi> PLOT,</l>
+                     <l>
+                        <hi>Manag'd by wise</hi> Fitz-gerrard <hi>and by</hi> SCOT;</l>
+                     <l>
+                        <hi>Prove to the World I'le have old</hi> ENGLAND <hi>know,</hi>
+                     </l>
+                     <l>
+                        <hi>That Common Sense is my Eternal Fo:</hi>
+                     </l>
+                     <l>
+                        <hi>I ne're can fight in a more Glorious Cause,</hi>
+                     </l>
+                     <l>
+                        <hi>Then to destroy their Liberties and Laws:</hi>
+                     </l>
+                     <l>
+                        <hi>Their Parchment Presidents, their dull Records,</hi>
+                     </l>
+                     <l>
+                        <hi>Their House of Commons and their House of Lords.</hi>
+                     </l>
+                     <l>
+                        <hi>Shall these Men dare to contradict my Will?</hi>
+                     </l>
+                     <l>
+                        <hi>And think a Prince o'th Blood can er'e do ill?</hi>
+                     </l>
+                     <l>
+                        <hi>It is our Birth-right; We have power to kill?</hi>
+                     </l>
+                     <l>
+                        <hi>Shall these men dare to think, shall these decide</hi>
+                     </l>
+                     <l>
+                        <hi>The way to Heav'n? and who shall be my Guide?</hi>
+                     </l>
+                     <pb n="2" facs="tcp:60460:2"/>
+                     <l>
+                        <hi>Shall these pretend to say that Bread is Bread?</hi>
+                     </l>
+                     <l>
+                        <hi>Or that there is no Purg'tory for the Dead,</hi>
+                     </l>
+                     <l>
+                        <hi>That Extreme Unction is but common Oyl,</hi>
+                     </l>
+                     <l>
+                        <hi>And not Infallible the</hi> Roman Soyl?</l>
+                     <l>
+                        <hi>I'le have these Villains in our Notions rest:</hi>
+                     </l>
+                     <l>
+                        <hi>You and I say it; Therefore 'tis best.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Next, Painter, Draw his <hi>Mordant</hi> by his side,</l>
+                     <l>Conveying his Religion, and his Bride;</l>
+                     <l>He who long since abjur'd the Royal Line,</l>
+                     <l>Does now in <hi>Popery</hi> with his Master joyn.</l>
+                  </lg>
+                  <lg>
+                     <l>Then draw the Princess with her Golden Locks,</l>
+                     <l>Hastning to be Renowned with the P—</l>
+                     <l>And in her Youthful Veins receive that wound,</l>
+                     <l>Which sent <hi>N— H—</hi> before her under ground;</l>
+                     <l>That would of which the tainted <hi>C—</hi> fades,</l>
+                     <l>Preserv'd in store for the next sett of Maids.</l>
+                  </lg>
+                  <lg>
+                     <l>Poor P— born under some sullen Star,</l>
+                     <l>To find this welcom when you come so far:</l>
+                     <l>Better some Jealous Neighbour of your own</l>
+                     <l>Had call'd you to some sound, tho petty Throne;</l>
+                     <l>VVhere, 'twixt a wholsom Husband, and a Page,</l>
+                     <l>You might have linger'd out a longer age.</l>
+                     <l>Then in false hopes of being once a Queen,</l>
+                     <l>Die before Twenty, Rot before Fifteen.</l>
+                  </lg>
+                  <lg>
+                     <l>Now <hi>Painter,</hi> shew us in the blackest dye,</l>
+                     <l>The Councellors of all this Villany.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Clifford,</hi> who first appear'd in humble guise,</l>
+                     <l>VVas thought so meek, so modest, and so wise;</l>
+                     <l>But when he came to act upon the Stage,</l>
+                     <l>He prov'd the mad <hi>Cethegus</hi> of our age:</l>
+                  </lg>
+                  <lg>
+                     <pb n="3" facs="tcp:60460:2"/>
+                     <l>He and the Duke had each too great a mind</l>
+                     <l>To be by Justice, or by Law confin'd;</l>
+                     <l>Their boyling Heads can hear no other sounds,</l>
+                     <l>Then Fleets &amp; Armies, Battles, Blood &amp; wounds;</l>
+                     <l>And to destroy our Liberty they hope,</l>
+                     <l>In <hi>Irish</hi> Fools, and a Doting <hi>POPE.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Then Painter shew thy Skill, and in fit place</l>
+                     <l>Let's see the <hi>Nuncio Arundels</hi> sweet face;</l>
+                     <l>Let the Beholders by thy art descry</l>
+                     <l>His Sense, and Soul as squinting as his Eye.</l>
+                  </lg>
+                  <lg>
+                     <l>Let <hi>Bellasis</hi> autumnal face be seen,</l>
+                     <l>Rich with the spoil of a poor <hi>Algerine,</hi>
+                     </l>
+                     <l>VVho trusting in him, was by him betray'd;</l>
+                     <l>And so should we, were his advice obey'd:</l>
+                     <l>The <hi>Hero</hi> once got Honour by the Sword,</l>
+                     <l>He got his wealth by breaking of his word;</l>
+                     <l>He now has got his Daughter great with Child,</l>
+                     <l>And Pimps to have his Family defil'd.</l>
+                  </lg>
+                  <lg>
+                     <l>Next Painter draw the Rabble of the PLOT,</l>
+                     <l>
+                        <hi>German, Fitz gerard, Loftus, Porter, Scot;</hi>
+                     </l>
+                     <l>These are fit Heads indeed to turn a State,</l>
+                     <l>And change the Order of a Nations Fate:</l>
+                     <l>Ten thousand such as these can ne're controul,</l>
+                     <l>The smallest <hi>attoms</hi> of an <hi>English</hi> Soul.</l>
+                     <l>Old <hi>England</hi> on its strong Foundation stands,</l>
+                     <l>Defying all their Heads, and all their Hands;</l>
+                     <l>It's steady <hi>Basis</hi> never could be shook,</l>
+                     <l>VVhen wiser Heads its ruine undertook;</l>
+                     <l>And can her <hi>Guardian-Angel</hi> let her stoop</l>
+                     <l>At last to <hi>Fools,</hi> to <hi>Mad-men,</hi> and the POPE.</l>
+                     <l>
+                        <hi>No</hi> Painter, <hi>no; Close up thy Piece, and see</hi>
+                     </l>
+                     <l>
+                        <hi>This Croud of Traytors hang in Effigie.</hi>
+                     </l>
+                  </lg>
+                  <div type="poem">
+                     <pb n="4" facs="tcp:60460:3"/>
+                     <head>To the KING.</head>
+                     <lg>
+                        <l>GReat <hi>CHARLES,</hi> who full of Mercy would'st Command</l>
+                        <l>In Peace and Plenty this thy Native Land;</l>
+                        <l>At last take pity on thy tott'ring Throne,</l>
+                        <l>Shook by the faults of others, not thy own:</l>
+                        <l>Let not thy Life and Crown together end,</l>
+                        <l>Destroy'd by a false Brother, and false Friend:</l>
+                        <l>Observe the Danger that appears so near,</l>
+                        <l>And all your Subjects do each minute fear;</l>
+                        <l>A drop of Poison, or a Popish Knife,</l>
+                        <l>Ends all the Joys of <hi>England</hi> with your Life.</l>
+                        <l>Brothers 'tis true should be by Nature kind;</l>
+                        <l>But to a Zealous and Ambitious Mind,</l>
+                        <l>Brib'd by a Crown on Earth, and one above,</l>
+                        <l>There's no more Friendship, Tenderness, or Love.</l>
+                        <l>See in all Ages what Examples are</l>
+                        <l>Of Monarchs murther'd by th'impatient Heir.</l>
+                     </lg>
+                     <lg>
+                        <l>Hard Fate of Princes, who will ne'r believe,</l>
+                        <l>Till the Stroke's struck, which they can ne'r retrieve.</l>
+                     </lg>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="poem">
+                  <pb n="1" facs="tcp:60460:3"/>
+                  <head>THE SECOND ADVICE TO THE PAINTER</head>
+                  <lg>
+                     <l>NOw <hi>Painter</hi> try if thy skil'd hand can draw,</l>
+                     <l>The horrid'st Scene the trembling world ere saw;</l>
+                     <l>Wipe all the Pencills that the former drew,</l>
+                     <l>In dismal colours dip 'um all anew;</l>
+                     <l>Colours that may in lively parts express</l>
+                     <l>The plotted fall of <hi>Monarchs</hi> in a dress:</l>
+                     <l>May fright the World from Crimes we can't atone,</l>
+                     <l>With our best bloods, and Christians blush to ow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>:</l>
+                     <l>But let me first advise you ere you take</l>
+                     <l>This work in hand, a small reflection make</l>
+                     <l>On all that's hainous; <hi>Murthers, Treasons, Fires,</hi>
+                     </l>
+                     <l>
+                        <hi>Deaths</hi> in all shapes, and <hi>rapines,</hi> hot desires:</l>
+                     <l>Of <hi>Murthering Kings</hi> I tremble to reherse,</l>
+                     <l>A tottering world and sinking Universe:</l>
+                     <l>Think well on these ere you begin your part</l>
+                     <l>'Twill heighten fancy, and affect your heart:</l>
+                     <l>In th' upper part of all the Canvas, paint</l>
+                     <l>His <hi>Holyness</hi> the <hi>Pope,</hi> that mighty Saint,</l>
+                     <l>Old Sathan his associate too must stand</l>
+                     <l>Behind his chair to guide his heart and hand;</l>
+                     <l>Draw him stuck round with all the toyes that come</l>
+                     <l>From the grand Mint of lies, old foppish <hi>Rome:</hi>
+                     </l>
+                     <l>
+                        <hi>Bulls, Dispensations, Pardons,</hi> all the baits</l>
+                     <l>He lays for the dull crow'd; the <hi>Book of rates</hi>
+                     </l>
+                     <l>Will be convenient too, that t'every sin</l>
+                     <l>The value may be known, pray cram that in:</l>
+                     <l>Draw him dispersing with a bounteo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s han<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </l>
+                     <l>For horrid ends the treasure of his Land▪</l>
+                     <pb n="2" facs="tcp:60460:4"/>
+                     <l>Dispensing with false Oaths, or any thing,</l>
+                     <l>So that they'l <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>urther <hi>Charles</hi> Great <hi>Brittains</hi> King:</l>
+                     <l>Poor fool to think the guardian of his throne,</l>
+                     <l>Is grown as dull and sensless as his own;</l>
+                     <l>No, proud Impostor, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> thy hand'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> too short</l>
+                     <l>To rea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h his head or make his fall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hy sport:</l>
+                  </lg>
+                  <lg>
+                     <l>Next draw proud <hi>France,</hi> and his ambitious hope</l>
+                     <l>Of being mighty, cringing to the Pope:</l>
+                     <l>'Tis not his zeal to him, or to those laws</l>
+                     <l>That cheat the world, that his affection draws;</l>
+                     <l>'Tis int'rest, mighty int'rest, bears the sway,</l>
+                     <l>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e dares not, though he's willing, disobey:</l>
+                     <l>Base Prince and foolish too, your self you cheat,</l>
+                     <l>When on such terms as these you would be great;</l>
+                     <l>You feast your sences, secure at costly rates,</l>
+                     <l>That nothing else can serve but dellicates</l>
+                     <l>Dipt in the blood of Princes: Deaths of Kings,</l>
+                     <l>In your opinion are but vulgar things:</l>
+                     <l>Had thirst of Empire sway'd a generous soul</l>
+                     <l>These base low tricks cou'd never sure controul;</l>
+                     <l>But to a minde so firm on mischief bent,</l>
+                     <l>No generous thoughts or honour could prevent</l>
+                     <l>The meanest actions; Princes should be true,</l>
+                     <l>And act on principles of honour too:</l>
+                     <l>Then they are Sacred to the world, and ought</l>
+                     <l>To be adored, then disrespect's a fault:</l>
+                     <l>But when from base degenerate they are grown,</l>
+                     <l>The vulgar hurl'um headlong from the throne:</l>
+                     <l>Go on vile Prince in all these acts, and try,</l>
+                     <l>How soon your Crown will fade, your Empire dye;</l>
+                     <l>By your example your own Subjects teach,</l>
+                     <l>To strike at Empires and at Scepters reach,</l>
+                     <l>And may their first attempt be on thy head,</l>
+                     <l>Dethrone thee first of all, then strike thee dead.</l>
+                  </lg>
+                  <lg>
+                     <l>Now Painter to our Subjects dip thy pen</l>
+                     <l>In black, in horrid black, yet once agen;</l>
+                     <l>For when a Subject from a King revolts,</l>
+                     <l>Conspires his death, and thinks these things no faults,</l>
+                     <l>The scene must needs be horrid, first begin</l>
+                     <l>With <hi>Bellasis</hi> and his foul and grateful sin:</l>
+                     <l>Draw him a monster, in as foul a dress</l>
+                     <l>As ere your heart can think, or hand express:</l>
+                     <pb n="3" facs="tcp:60460:4"/>
+                     <l>Long did he in his Princes bosom lie</l>
+                     <l>One would have thought void of all Treachery;</l>
+                     <l>For what base man but he, could ere conspire</l>
+                     <l>To set that house, wherein he lives, on fire?</l>
+                     <l>Who could such Treason harbour in his breast,</l>
+                     <l>'Gainst th' best of Princes, and to him the best?</l>
+                     <l>The other Lords must on the Stage be led,</l>
+                     <l>Drawn—each man with halter on his head,</l>
+                     <l>And dagger in his heart, that so in vain</l>
+                     <l>Wherewith they strove to stab their Soveraign:</l>
+                     <l>Base Rebells! do you thus your Prince reward?</l>
+                     <l>Have you no Honour left? or no regard</l>
+                     <l>T' his Clemency, which some of you I know</l>
+                     <l>Have tasted story had di'd for't long ago:</l>
+                     <l>Had he been cruel or Tirannick grown,</l>
+                     <l>You had more reason to usurp his Throne;</l>
+                     <l>But to a Gratious and Obliging Prince,</l>
+                     <l>'Tis past all hopes of pardon or defence.</l>
+                  </lg>
+                  <lg>
+                     <l>Now <hi>Painter</hi> draw me <hi>Hell</hi> in all its heat,</l>
+                     <l>Let sulphurous flames and dismal darkness meet,</l>
+                     <l>And in the hottest place, as best befits,</l>
+                     <l>Draw <hi>Stayly, Coleman</hi> and the <hi>Jesuits:</hi>
+                     </l>
+                     <l>Let 'um indure the flaming brimstone rage,</l>
+                     <l>Those bloody Tra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>terous miscreants of our age,</l>
+                     <l>Those were the men design'd (O horrid act)</l>
+                     <l>Nay were resolved too, to commit the fact,</l>
+                     <l>Base Rebells don't you know, that Heavens high hand</l>
+                     <l>Has stil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> kept sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e the Monach of our <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nd,</l>
+                     <l>And cou'd you think to move our Scene and do</l>
+                     <l>What Heavens great Lord had nere consented to.</l>
+                     <l>Burn on vile wretches, think well on these things,</l>
+                     <l>What Treason is, what 'tis to Murther Kings.</l>
+                  </lg>
+                  <lg>
+                     <l>Now draw in all his Majesty and State,</l>
+                     <l>Our Soveraign Prince, just rising from his <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>,</l>
+                     <l>Pra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> paint him laughing at the follies done</l>
+                     <l>By th' <hi>Pope,</hi> and <hi>France,</hi> his most unchristian Son?</l>
+                     <l>Prithy Old fellow, prithy tell me why,</l>
+                     <l>Old <hi>England</hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hould so much disturb th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Eye:</l>
+                     <l>Is it be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ause we do not dote like you,</l>
+                     <l>And worship all your Saints we never knew?</l>
+                     <l>If these, Old man, our aggravations be,</l>
+                     <l>Know, we defy thy Mallice, Imps, and thee.</l>
+                  </lg>
+                  <div type="poem">
+                     <pb n="4" facs="tcp:60460:5"/>
+                     <head>To the KING.</head>
+                     <l>WElcome great Prince, to Life ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n, at least,</l>
+                     <l>welcom from d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rs, which we hope ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ast,</l>
+                     <l>Dangers which lately hover'd o're your head,</l>
+                     <l>Threatning to strike your rising Glory d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d;</l>
+                     <l>The Cloud's bl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wn over, and the mists away</l>
+                     <l>Portend the rising of a glorious day?</l>
+                     <l>May still your Sacred Majesty give Law</l>
+                     <l>To all your Kingdoms, keeping them in aw,</l>
+                     <l>May your bright Crown, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> beauteous <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ays disper<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </l>
+                     <l>As any Monarch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of the Universe.</l>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="poem">
+                  <pb n="1" facs="tcp:60460:5"/>
+                  <head>The Third Part of ADVICE TO THE PAINTER, Concerning The great Turk, Count <hi>Teckley,</hi> and the Forces against them; the <hi>French,</hi> the <hi>Spaniards,</hi> the <hi>Dutch,</hi> and the <hi>English.</hi>
+                  </head>
+                  <l>PAinter once more thy Pencil Reasume,</l>
+                  <l>And in a Lanskip draw me Christendom.</l>
+                  <l>But first draw out the Turkish Empire, then</l>
+                  <l>Paint out in Collours their devision.</l>
+                  <l>Paint me that mighty Powerful State a Shaking;</l>
+                  <l>And their great Prophet, <hi>Teckely,</hi> a Quaking.</l>
+                  <l>Who for Religion made such busling work,</l>
+                  <l>That to Reform it he brought in the Turk.</l>
+                  <l>Next Paint our English Mufties of the Tub,</l>
+                  <l>Those great Promoters of the <hi>Teckelites</hi> Club.</l>
+                  <l>Draw me them praying for the Turkish Cause,</l>
+                  <l>And for the overthrow of Christian Laws.</l>
+                  <l>Next Paint the Turks Seraglio, then</l>
+                  <l>Paint our English Mufties entring in;</l>
+                  <l>That and Rebellion is their Darling Sin.</l>
+                  <l>Next draw the many guiltless Souls, that dy'd</l>
+                  <l>A Sacrifice to their Lucifrian pride.</l>
+                  <l>And Paint to th' life their Diabolick Faces,</l>
+                  <l>And angry Looks, for their late desperate Cases.</l>
+                  <l>But lastly, draw a fair and spacious Plain,</l>
+                  <l>And in it Gallowses to hang them on.</l>
+                  <l>Now draw in opposition to this Crew,</l>
+                  <l>The German Poles and Cosack Forces too:</l>
+                  <pb n="2" facs="tcp:60460:6"/>
+                  <l>Show by thy Art what they have bravely done;</l>
+                  <l>Beat down the Turks, and their great Standard won.</l>
+                  <l>And for the Rebels Emblem draw me Hell,</l>
+                  <l>Whose Luciferian Fates has taught them well,</l>
+                  <l>What 'tis to Fight their King and to Rebel.</l>
+                  <l>And as our God did Satan overthrow,</l>
+                  <l>And for Rebellion him to Hell did throw;</l>
+                  <l>So these our Earthly Rebels shall</l>
+                  <l>Be fated here, and in Hell after fall;</l>
+                  <l>When Kings like Terrene Gods do justly Reign;</l>
+                  <l>Are by good Subjects held their Sovereign.</l>
+                  <l>Next draw the Monsieurs huffing ore proud <hi>Spain;</hi>
+                  </l>
+                  <l>But draw them too upon their turn again.</l>
+                  <l>Paint out their Courage more by words then blows;</l>
+                  <l>Blood but the Monsieurs, and they'l fly their Foes.</l>
+                  <l>And when you draw them to the Life, pray draw</l>
+                  <l>Instead of El's the cunning Foxes paw.</l>
+                  <l>Draw me the Spaniard rousing as they wou'd,</l>
+                  <l>Revenge their Quarrel in the French Mans Blood.</l>
+                  <l>Draw me Great <hi>Orange</hi> whose Victorious Soul</l>
+                  <l>Will cool their heat, and Monsieurs rage controul.</l>
+                  <l>Next draw me <hi>Holland</hi> poxt with jealous Fears;</l>
+                  <l>Paint them falling together by the Ears.</l>
+                  <l>Distrusting one another draw them now,</l>
+                  <l>And fearful what to do, or how.</l>
+                  <l>Paint them as hector'd Men by Monsieurs word;</l>
+                  <l>Paint them as Men afraid of Monsieurs Sword.</l>
+                  <l>Next draw old <hi>England</hi> rising from the Dead,</l>
+                  <l>And Loyalty that now can show its Head.</l>
+                  <l>Paint me Great <hi>CHARLES</hi> that all the World doth awe,</l>
+                  <l>Who hath declar'd he Govern will by Law.</l>
+                  <l>Now, lastly, draw me <hi>London,</hi> that great City</l>
+                  <l>That twice Rebel'd in one Age, more's the Pity:</l>
+                  <l>But draw them Loyal now with their new Charter,</l>
+                  <l>And taking the Oaths for to be True hereafter.</l>
+                  <l>Draw all the Loyal Subjects, Joyful Hearts,</l>
+                  <l>Draw out their Loyalty in all its parts:</l>
+                  <l>Whilst other murmering Rebels down are hurl'd;</l>
+                  <l>Confounded here, and dam'd in to'ther World.</l>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>LONDON, <hi>Printed for</hi> Walter Davis <hi>in</hi> Amen-Corner. <hi>1684.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="poem">
+                  <pb n="1" facs="tcp:60460:6"/>
+                  <head>NEW ADVICE TO A PAINTER, &amp;c</head>
+                  <lg>
+                     <l>PAinter, once more thy Pencil reassume.</l>
+                     <l>Draw me a Night Piece—Draw me <hi>Rome.</hi>
+                     </l>
+                     <l>
+                        <hi>Rome</hi> under ground, 'twill make a curious Piece!</l>
+                     <l>Out do the boldest hands of Antient <hi>Greece.</hi>
+                     </l>
+                     <l>Let the pale Tapers, which afford it lights,</l>
+                     <l>Burn blew, affrighted with approaching Sprites.</l>
+                     <l>Draw me the shaking Triple Mitred Head,</l>
+                     <l>And all the Conclave, looking like the Dead.</l>
+                     <l>Draw fallen <hi>Lucifer</hi> in Brimstone Robes,</l>
+                     <l>Infernal Posts arriving thick like <hi>Jobes:</hi>
+                     </l>
+                     <l>Each telling after other rueful Tale,</l>
+                     <l>How all the Pious Stratagems still fail;</l>
+                     <l>Nor Pistol, Poison, Ponyard will prevail.</l>
+                     <l>How in defence of See Apostolique,</l>
+                     <l>Like all true Bigots <hi>Roman</hi> Catholique,</l>
+                     <l>Most boldly living, their late Martyrs ty'd,</l>
+                     <l>And all without Confessing, bravely dy'd.</l>
+                     <l>How d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ring <hi>Coleman</hi> led the Forlorn Hope,</l>
+                     <l>Of all th' Unfortunate Brethren of the Rope,</l>
+                     <l>Who murther Princes to exalt a Pope.</l>
+                     <l>Of this new Order of <hi>Cordeliers</hi> how</l>
+                     <l>He was the Founder and Confounder too.</l>
+                     <l>How Cardinal <hi>Ireland, Hartcourt, Gaven</hi> fell,</l>
+                     <l>Of <hi>Pickering, Grove,</hi> and <hi>Turner,</hi> let them tell,</l>
+                     <l>How all's undone, <hi>Rome,</hi> Purgatory, Hell!</l>
+                     <l>So! Painter 'tis enough; now lets retire,</l>
+                     <l>And leave the Pope in this new Malvidere.</l>
+                  </lg>
+                  <lg>
+                     <l>Next, let me see a spatious Curtain Drawn,</l>
+                     <l>Fine and transparent as the Cobweb Lawn.</l>
+                     <l>It must with curious Art and Care be wrought,</l>
+                     <l>That through it one may see a nimble thought.</l>
+                     <l>The ground with Faction, Treason, Tumult lay,</l>
+                     <l>All Varnish't o're with shining Preach and Pray.</l>
+                     <l>Shade it with Fineness, Artifice, Intrigue,</l>
+                     <l>Darken the foldings with the Solemn League.</l>
+                     <pb n="2" facs="tcp:60460:7"/>
+                     <l>Behind this Curtain let bold Actors stand,</l>
+                     <l>Buskin'd for Tragedy upon command;</l>
+                     <l>Inspir'd with furious, not Poetique Rage,</l>
+                     <l>A second time to tread a bloody Stage.</l>
+                     <l>Draw there an Aged Pope upon all four,</l>
+                     <l>With riding Furniture Equipped o're,</l>
+                     <l>With Warlike Saddle, and with Curbing Bitt,</l>
+                     <l>Holsters and Howsings, Breastplate, all compleat.</l>
+                     <l>Then let a dapper Pres'ter Poll bestride</l>
+                     <l>The Scarlet Rampant Beast, and fiercely ride.</l>
+                     <l>Let him be clad in the new Silken Buff,</l>
+                     <l>And wear an old Round-head without a Ruff.</l>
+                     <l>Upon the top of his Triumphat Lance,</l>
+                     <l>The spoiled Whore of Babel's Smock advance.</l>
+                     <l>Before him let there march Lewd Reformation,</l>
+                     <l>Proclaiming Liberty and Tolleration.</l>
+                     <l>Paint dismal Ruin stalking in the Rear,</l>
+                     <l>Than Landskip Desolation far and near.</l>
+                     <l>Paint close Cabals, and Midnights secret Clubs,</l>
+                     <l>Paint the Disciples of the bawling Tubs,</l>
+                     <l>With Ears erected and with Mouths displaid,</l>
+                     <l>And all the Brethren o'th Religious Blade,</l>
+                     <l>Big with their hopes and expectations blown,</l>
+                     <l>That e're't be long the day will be their own.</l>
+                     <l>Let several Labels from their mouths proceed,</l>
+                     <l>To note the different Tribes o'th' Holy Seed:</l>
+                     <l>Here, Root and Branch, there, down with Babel down.</l>
+                     <l>Away with Bishops, this, that, with the Crown.</l>
+                     <l>Here draw one closesly laughing in his sleeve,</l>
+                     <l>That he has made the zealous fools believe,</l>
+                     <l>What he has told them is as Gospel true,</l>
+                     <l>If't be not so, then he's a very <hi>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ew.</hi>
+                     </l>
+                     <l>Paint here Ambition making humble Court</l>
+                     <l>To Popular Ears, and shewing Scripture for't.</l>
+                     <l>There, Draw me Envy, and here, private Pique,</l>
+                     <l>Looking demure while deep Revenge they seek.</l>
+                     <l>Here one who lost his Crown and Bishops Lands,</l>
+                     <l>Clapping for joy his Sacrilegious hands.</l>
+                     <l>Draw busie Jealousie among the Croud,</l>
+                     <l>And whispering Fear, and Calumny still loud.</l>
+                     <l>Paint Armed Zeal in fighting Gospel Buff;</l>
+                     <l>Paint what thou wilt, so't be confus'd enuff.</l>
+                     <l>Then Painter Draw one laughing out this Mott,</l>
+                     <l>Come do it boldly then, Plot upon Plot.</l>
+                     <l>Now Painter let us Trade in open day,</l>
+                     <l>And bare fac't Light: a barren Landskip lay,</l>
+                     <l>Like some cold Northern Clime; there must not be</l>
+                     <l>Much Beauty in it, much Variety:</l>
+                     <l>Not many fruitful Vales, nor pleasant Springs,</l>
+                     <l>Nor murmu'ring Riv'lets, nor delightful things.</l>
+                     <l>But cragged Rocks, and the bald Mountains shew,</l>
+                     <l>No Perrewigs of Wood, but Bonnets blew</l>
+                     <pb n="3" facs="tcp:60460:7"/>
+                     <l>Of distant Sky, Paint Loughs, and Treacherous Bogs,</l>
+                     <l>Stored with Revelation croaking Frogs.</l>
+                     <l>And now the Scene is fit, the Curtain draw,</l>
+                     <l>Trumpets and Drums within, Sasa, Sasa.</l>
+                     <l>A Rev'rend Prelate must the Prologue be,</l>
+                     <l>Enough alone to make a Tragedy.</l>
+                     <l>Paint him all over wounds and purple gore,</l>
+                     <l>Greater than <hi>Caesars</hi> and in number more.</l>
+                     <l>Than let the mad braind Zealous Troops advance,</l>
+                     <l>Hasting to forfeit their Allegiance,</l>
+                     <l>In the defence of Covenant; Well a way!</l>
+                     <l>True Protestant Religion to betray.</l>
+                     <l>While thus with Violence, Murder, Perjury,</l>
+                     <l>They strive to raise their new Fifth Monarchy,</l>
+                     <l>The Iron Scepter of Presbytery.</l>
+                     <l>Now Painter Summon all thy skilful Art,</l>
+                     <l>Thy choicest Colours, cleanest stroaks impart.</l>
+                     <l>Draw me a blooming Hero, let him fly,</l>
+                     <l>more swift than Light'ning from a sullen Sky:</l>
+                     <l>Whose early Valour Rivals <hi>Caesars</hi> Fame,</l>
+                     <l>For he too came, and saw, and overcame.</l>
+                     <l>Paint Woods of Lawrels for his Conqu'ring brow,</l>
+                     <l>Hee'l reap them all as fast as they can grow.</l>
+                     <l>But gentle Painter, plant them in the shade,</l>
+                     <l>Lest as they quickly grew, they quickly fade.</l>
+                     <l>And now dear Painter, how shall we devise,</l>
+                     <l>To draw some thoughts? Oh! how would that surprize!</l>
+                     <l>But since those swift Ideas will not sit,</l>
+                     <l>Till thou canst finish 'em, e'en venture it,</l>
+                     <l>A careless dash does somtimes bravely hit.</l>
+                     <l>Draw then the discontented Factious crew</l>
+                     <l>Of Disaffected Brethren; let us view</l>
+                     <l>Their Faces well, and we shall easily find,</l>
+                     <l>Their secret thoughts by th' Index of the mind.</l>
+                     <l>Draw biting Lips, and sullen frowning Brow,</l>
+                     <l>And hands lift up betwixt a Curse and Vow:</l>
+                     <l>Paint this half drawing out his angry Sword,</l>
+                     <l>That weeping for the people of the Lord,</l>
+                     <l>Who for the Gospel were in Battle slain,</l>
+                     <l>Or by the Common En'my Captive tane.</l>
+                     <l>Let hasty blood mount in that manly Face,</l>
+                     <l>There let it sneak, and give pale Choler place.</l>
+                     <l>Here Paint one raving, raging, staring mad;</l>
+                     <l>Thus disappointed after seeking Gad!</l>
+                     <l>Thus by ill Conduct, and base Cowardice,</l>
+                     <l>To spoil the <hi>Good Old Cause,</hi> and ope' the Eyes</l>
+                     <l>Of Wicked men, to see and Triumph too;</l>
+                     <l>What hast thou done Lard? Lard! What must we do?</l>
+                     <l>Could not th' impatient Brethren stay till we</l>
+                     <l>Had fully hatcht a New Conspiracy,</l>
+                     <l>No King, or else of Clouts, till we had made,</l>
+                     <l>(That is a Glorious King) they might have staid:</l>
+                     <pb n="4" facs="tcp:60460:8"/>
+                     <l>But thus with Shell on head, and callow wing,</l>
+                     <l>Thus run away! Lard! This was such a thing!</l>
+                     <l>Now should we strive to lend our helping hand</l>
+                     <l>To work Salvation, th' wicked of the Land</l>
+                     <l>Will call't Rebellion: and should they prevail,</l>
+                     <l>We can expect no Mercy, if we fail</l>
+                     <l>In our attempt, no second Amnesty</l>
+                     <l>Can e're be hop'd, Ah! No Indempnity!</l>
+                     <l>Painter, close up thy Piece, expose't to view;</l>
+                     <l>'Twill meet with various Censures: But 'tis true.</l>
+                     <l>Till the next time we meet, Painter Adieu.</l>
+                  </lg>
+                  <div type="poem">
+                     <head>To the KING.</head>
+                     <l>HAil Mighty <hi>Charles!</hi> Joy of our Lives and Eyes:</l>
+                     <l>Born and preserv'd, restor'd in wondrous wise!</l>
+                     <l>At last take pity of a Glorious State,</l>
+                     <l>Shook by the Malice, and the restless Hate,</l>
+                     <l>Of Undermining Foes, and Treacherous Friends,</l>
+                     <l>By diff'ring methods driving the same ends.</l>
+                     <l>Papist and Presbyterian both combine,</l>
+                     <l>And <hi>Sampsons</hi> flaming Foxes Tails-conjoyn</l>
+                     <l>To R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b thee of thy Crown, and to destroy,</l>
+                     <l>With thee our Lives, Religion, Liberty.</l>
+                     <l>
+                        <hi>Rome</hi> and <hi>Geneva,</hi> both strive to pull down</l>
+                     <l>The Envi'd Mitre and Imperial Crown.</l>
+                     <l>The Royal Martyr <hi>Charles,</hi> the Wise, the Just,</l>
+                     <l>Commands you to forgive, but never trust.</l>
+                     <l>Lose not your Friends in hopes your Foes to gain,</l>
+                     <l>Eternal hates are reconcil'd in vain.</l>
+                     <l>You are no longer safe than they want power,</l>
+                     <l>No Monarch after that can Reign an hour.</l>
+                     <l>Cherish you Friends if Scepters you will sway,</l>
+                     <l>And Rule your Subjects many a happy day.</l>
+                     <l>Defend that Faith which does defend your Crown,</l>
+                     <l>Which Christ first taught, which all true Christians own:</l>
+                     <l>Who teaches any other, comes from Hell;</l>
+                     <l>The Dev'l first did, then taught men to Rebel.</l>
+                     <l>Read all the rest in the late Rebel <hi>Scot,</hi>
+                     </l>
+                     <l>There is enough to shew a second Plot.</l>
+                     <l>The Banks are yet intire, 'tis not too late</l>
+                     <l>To stop another Deluge o're the State.</l>
+                     <l>Who his to morrow trusts for safety, may,</l>
+                     <l>Before it comes be ruined by delay.</l>
+                     <l>To speak bold truths Poets and Painters dare,</l>
+                     <l>Believe them, Mighty Sir, Believe, Beware!</l>
+                     <l>Nothing can save us from a dreadful Doom,</l>
+                     <l>But what secures from Faction and from <hi>Rome.</hi>
+                     </l>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="poem">
+                  <pb n="1" facs="tcp:60460:8"/>
+                  <head>THE Jesuites Advice TO THE PAINTER: <hi>Ʋpon the DEATH of</hi> VVilliam Howard, Late Viscount Stafford.</head>
+                  <lg>
+                     <l>WHat damn'd dull Dog was that that did Advise</l>
+                     <l>So poorly to depict ROME'S Treacheries?</l>
+                     <l>And in such mean Pedantick Strains to call</l>
+                     <l>An Art-less Painter to her Funeral:</l>
+                     <l>Sure One that had no Soul, but what was Lent,</l>
+                     <l>And from some fulsom Dunghil hither sent!</l>
+                     <l>Fond Poet, ROME's not dead nor dying! she</l>
+                     <l>Will yet Survive your grand Catastrophe:</l>
+                     <l>And all her Martyred Saints shall from the Dead</l>
+                     <l>Arise, and Plant their Tryumphs on her head;</l>
+                     <l>Such Glories her predicted Fall attend.</l>
+                     <l>As will in a Victorious Conquest End:</l>
+                     <l>With what dull Verse, with what insipid Spell,</l>
+                     <l>Dost thou lay down the Stratagems of Hell?</l>
+                  </lg>
+                  <lg>
+                     <l>ALl you infernal Sp'rits from Styg'a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Lake,</l>
+                     <l>
+                        <hi>Requiems</hi> sing for our dear <hi>Stafford's</hi> s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ke,</l>
+                     <l>Who to the Last, unto his latest Breath,</l>
+                     <l>Our cause maintain'd, and seal'd it by his Death,</l>
+                     <l>Paint this Fam'd Hero Innocent and Great▪</l>
+                     <l>Make him a Saint in spite of <hi>Jove</hi> and Fate▪</l>
+                     <l>Let his Curst Treasons <hi>Loyalty</hi> supplant,</l>
+                     <l>Ten Rebels make for one Damn'd Protestant,</l>
+                     <l>By his last Traiterous Breath, let him create,</l>
+                     <l>Ten hundred Thousand Traytors to the State,</l>
+                     <pb n="2" facs="tcp:60460:9"/>
+                     <l>And now with Hell let him once more combine,</l>
+                     <l>Implore its Aid, to drive on Our Designe.</l>
+                     <l>Lay all the Kingdom waste, and in a Word</l>
+                     <l>Put all the <hi>Hereticks</hi> to Fire and Sword;</l>
+                     <l>Leave not a Child of Two years old to tell,</l>
+                     <l>That ever here, a Protestant did dwell.</l>
+                     <l>But that these Things may fully take Effect,</l>
+                     <l>No Mercy shew to young, nor old respect;</l>
+                     <l>When we <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ud Blessings give, Know then we Curse,</l>
+                     <l>If we advise to Kill, you must do worse.</l>
+                     <l>When we Obedience preach, 'tis our Intent,</l>
+                     <l>Rebels to be to King and Parliament.</l>
+                     <l>Turn all Things upside down, till <hi>Rome</hi> and Fate,</l>
+                     <l>Become the ample Guardians of the State.</l>
+                     <l>'Till we involve i'th Tye of humane Blood,</l>
+                     <l>What no Age knew or ever Understood,</l>
+                     <l>Assist my Muse, from the Infernal <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>IT!</l>
+                     <l>Whence Jesuites draw their Abyss of Wit:</l>
+                     <l>All you dear Brothers of the Holy League,</l>
+                     <l>
+                        <hi>Ital<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ans, Spanish, British, French</hi> and <hi>Teagu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi>
+                     </l>
+                     <l>Conspire in one, both Hell and <hi>Rome</hi> predict,</l>
+                     <l>Your good Success; our PLOT to like effect.</l>
+                     <l>Damn that ignoble Painter that does Limn,</l>
+                     <l>The Holy PLOT, in Characters so dim:</l>
+                     <l>In stead of Poyson, Pistol, or a Stab,</l>
+                     <l>Paint Unbelief, no Faith but in a<note n="†" place="margin">T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e Romish Church.</note> Drab.</l>
+                     <l>In stead of Gallows, Torture and Defence,</l>
+                     <l>Draw faithful Guilt, in shape of Innocence.</l>
+                     <l>Limn to the Life; Make our hang'd Saints arise,</l>
+                     <l>Convert the Sceen, Draw Murther in Disguise:</l>
+                     <l>From sleep ascents to Happiness and Bliss,</l>
+                     <l>Where you design to Kill, there paint a Kiss.</l>
+                     <l>Propound, confound, desist, repent, recant,</l>
+                     <l>Paint holy — a Zealous Protestant:</l>
+                     <l>Give him the Oath, and swear him to maintain</l>
+                     <l>Reformed Faith in a true Popish Strain.</l>
+                     <l>This does indeed look something like our Selves:</l>
+                     <l>Knit in a Mystique tye with Saints and Elves.</l>
+                     <l>But to proceed, where Massacres should stand,</l>
+                     <l>There paint the Plague, by it a Happy Land.</l>
+                     <l>For Towns burnt down, and Cities in a Flame,</l>
+                     <l>Draw there the Pope his Holinesse's Name.</l>
+                     <l>By <hi>Pluto's</hi> side Limn Hope and pawned <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aith,</l>
+                     <l>And neer their Feet <hi>Discovery</hi> and <hi>Death.</hi>
+                     </l>
+                     <l>Depict Discovery fearful in a Throng,</l>
+                     <l>Make dreadful Death as <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tiful and young:</l>
+                     <pb n="3" facs="tcp:60460:9"/>
+                     <l>And for a Murdred Prince a Virgin draw,</l>
+                     <l>Crown'd with Religion, Priviledg and Law:</l>
+                     <l>Within her Arms, lay all the Holy PLOT;</l>
+                     <l>All what is yet design'd, and what is not.</l>
+                     <l>All things propos'd for Mischief to ensue,</l>
+                     <l>Paint in no fading colors but in Blew,</l>
+                     <l>That all our holy Order may at sight,</l>
+                     <l>In a Disguise see the Effects of Night.</l>
+                     <l>DANBY's pernicious Council place alone,</l>
+                     <l>Which, for the Kingdoms good, engrave in stone,</l>
+                     <l>And near the same, let his dear person stand,</l>
+                     <l>Loaden with Crimes,<note n="†" place="margin">A Pardon.</note> High Treason in his hand.</l>
+                     <l>Upom his hardned Forehead, paint in Red,</l>
+                     <l>The Dreadful Ghost of GODFREY from the Dead:</l>
+                     <l>But clear him of the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ult; Be sure to state</l>
+                     <l>The Heretick's the Author of his Fate.</l>
+                     <l>For th' other ill affected Lords, set down</l>
+                     <l>No Treason, but aspiring to a Crown.</l>
+                     <l>Upon their Shoulders make Religion stand;</l>
+                     <l>But give her Wings, and Gold in either hand:</l>
+                     <l>Make her spit Fire which for the Churches good.</l>
+                     <l>See that you quench with the whole Nations blood.</l>
+                     <l>This done, in place of consecrated Knives,</l>
+                     <l>Put a long Chain of Prayers and Popish Lives,</l>
+                     <l>And though we Swear, For-swear, and Lie, yet Paint,</l>
+                     <l>A Jesuite no Devil but a Saint.</l>
+                     <l>For deep Rebellion of a Purple Dye,</l>
+                     <l>Draw humble Supplicants to Majesty,</l>
+                     <l>Where Foreiners design for to invade,</l>
+                     <l>No Armies put, but Languor, Fear and Dread.</l>
+                     <l>Depose Great <hi>Lewis</hi> from his glorious Throne,</l>
+                     <l>Whilst we unite these Kingdoms to his own.</l>
+                     <l>Before those Kings which we are to Delude,</l>
+                     <l>Draw Prostrate Jesuites in Blood imbru'd.</l>
+                     <l>In a deep Dungeon the Inquisition place,</l>
+                     <l>Not with an Horrid, but a Pleasing Face.</l>
+                     <l>All that we have to do, is to deceive,</l>
+                     <l>And the Misguided World of Sense bereave.</l>
+                     <l>A Conquest we design o'th British Land,</l>
+                     <l>Whom we intend shall fall, pray here let stand.</l>
+                     <l>Falshood and Victory joyn, and in a Line,</l>
+                     <l>Make Breach of Faith resemble Truth Divine.</l>
+                     <l>We're now spur d on, with flames of Rage and Lust,</l>
+                     <l>To lay the Credulous World in Blood and Dust:</l>
+                     <l>O're-turn the Pillars of the Universe,</l>
+                     <l>And Tragick Scenes of Cruelty rehearse.</l>
+                     <pb n="4" facs="tcp:60460:10"/>
+                     <l>Make Monarchs fall upon their Sulphury Lees,</l>
+                     <l>And trembling seize upon their feeble Knees.</l>
+                     <l>Bring all into a Chaos, as at first,</l>
+                     <l>Before the Product of the Earth was curst:</l>
+                     <l>In stead of Waters, let the Rivers swell,</l>
+                     <l>With human Blood, sent headlong down to Hell:<note place="margin">As in Queen <hi>Marys</hi> days.</note>
+                     </l>
+                     <l>Whilst raging Flames, their Lifeless Corps destroy,</l>
+                     <l>And fix the Periods of the Nations joy.</l>
+                     <l>Breath nothing but Revenge with Fire and Sword,</l>
+                     <l>Give the pernicious<note n="†" place="margin">Massacre.</note> Pestilence the word:</l>
+                     <l>And that Hells deep Design may take Effect,</l>
+                     <l>All Villanies persue, no Crimes reject.</l>
+                     <l>Bring to Confusion whatso'er you meet,</l>
+                     <l>Hell guid your Souls, whilst Rome directs your f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>et;</l>
+                     <l>So may the Painters hand be guided too,</l>
+                     <l>Contriving to Contrive, how to undo.</l>
+                     <l>Honour depress, Insult upon, degrade,</l>
+                     <l>Let Perjur'd baseness Royal Thrones invade:</l>
+                     <l>Be kind to none that Villany detest,</l>
+                     <l>Or harbour Gen'rous Thoughts within their brest.</l>
+                     <l>But see you make the Martyrdom proceed,</l>
+                     <l>From those, to whom, by Us it is decreed.</l>
+                     <l>Upon their Brows plant Vengeance; and we'll smite</l>
+                     <l>Those wretched Catiffs to Eternal Night.</l>
+                     <l>This is the Judgment, the Decree is Seal'd;</l>
+                     <l>Nor can it be revok'd tho 't be reveal'd.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed for <hi>T. Davies.</hi> 1681.</p>
+                  <pb facs="tcp:60460:10"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
